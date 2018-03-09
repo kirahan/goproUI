@@ -1,0 +1,11 @@
+{
+  "name": "goproUI",
+  "version": "0.0.1",
+  "main" : "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "goproh4": "~0.4.2"
+  }
+}
